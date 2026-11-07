@@ -1,0 +1,18 @@
+/*
+!/.gitignore
+!/.gitattributes
+!/.nojekyll
+!/robots.txt
+!/README.md
+!/Start Reading.cmd
+!/server.cjs
+!/index.html
+!/styles.css
+!/reader.css
+!/panels.css
+!/responsive.css
+!/app.js
+!/storage.js
+!/art/
+!/data/
+!/originals/
